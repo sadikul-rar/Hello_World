@@ -3,3 +3,8 @@
 The idea is to create a simple C++ hello world programme, but in actuality, the plan is to create, clone, modify, update, and push Repositories.
 For that I would need Github and VSCode. I already have Git installed in my PC, now I just have to git clone the Repository.
 
+# Day 2
+
+First step was to copy the link of the Repository from Github, and then I git cloned the repository into a local directory.
+Then I guess either Git itself or the VSCode downloaded the Repository into my local directory, and then the repository was available for me to modify.
+
