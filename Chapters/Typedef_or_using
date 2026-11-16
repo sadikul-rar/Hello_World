@@ -1,0 +1,22 @@
+#include <iostream>
+
+//if you use typedef, declare the placeholder before the function body
+
+//typedef std::string text_t;
+//typedef int number_t;
+
+using text_t = std::string; //use 'using' instead of typedef, because brocode said so. But using "using" is much better.
+using number_t = int;
+
+int main()
+
+{
+
+    text_t food = "Pizza";
+    number_t age = 52;
+
+    std::cout << food << std::endl; //In this case, use std::string as text_t in the last line and in the variables line
+    std::cout << age << std::endl;
+
+    return 0;
+}

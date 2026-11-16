@@ -21,3 +21,15 @@ int main()
     return 0;
 
 }
+
+int main()
+
+{
+
+    using nampspace second;
+
+    std::cout << x << std::endl; //write second namespace straight up for the variable to use the second namespace.
+
+    return 0;
+
+}
